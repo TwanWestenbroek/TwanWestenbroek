@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TwanWestenbroek.
-- 👀 I’m interested in front-end development, especially ReactJS.
-- 🌱 I’m currently learning Prisma.
+- 👀 I’m interested in front and back-end development, specialized in NodeJS with TypeScript.
 
 <!---
 TwanWestenbroek/TwanWestenbroek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
